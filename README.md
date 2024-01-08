@@ -1,1 +1,1 @@
-## Ouput
+## Output
